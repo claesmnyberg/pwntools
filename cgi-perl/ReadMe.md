@@ -8,4 +8,4 @@ In short it stands for "Common Gateway Interface" and is a first attempt to crea
 
 The interpretted Perl programming language is a default install on pretty much any UNIX-alike system that you can find and is a very portable way to execute code.
 
-These programs are written as CGI programs and can be dropped in the cgi-bin directory of a web server and be executed from a browser that access the web server.
+These programs are written as CGI programs and can be dropped in the cgi-bin directory to provide the implemented functionality.
